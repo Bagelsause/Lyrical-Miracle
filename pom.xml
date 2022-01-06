@@ -34,7 +34,7 @@
 		<dependency>
     		<groupId>org.jsoup</groupId>
     		<artifactId>jsoup</artifactId>
-    		<version>1.13.1</version>
+    		<version>1.14.2</version>
 		</dependency>
 		<dependency>
     		<groupId>com.github.LowLevelSubmarine</groupId>
@@ -49,7 +49,7 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.10</version>
+            <version>4.13.1</version>
         </dependency>
         <dependency>
             <groupId>org.codehaus.jackson</groupId>
@@ -59,12 +59,12 @@
         <dependency>
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>
-            <version>2.4</version>
+            <version>2.7</version>
         </dependency>
         <dependency>
             <groupId>org.apache.httpcomponents</groupId>
             <artifactId>httpclient</artifactId>
-            <version>4.2.6</version>
+            <version>4.5.13</version>
         </dependency>
         <dependency>
         	<groupId>org.json</groupId>
